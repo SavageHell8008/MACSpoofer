@@ -2,6 +2,7 @@
 <img alt="MAC Spoofer" src="https://github.com/Secure-Scholar/MACSpoofer/assets/142740652/c7a9fe25-46fe-48bc-9181-5a9ea200d049">
 <p align = "center">
   <img alt="Static Badge" heigth="150px" width="150px" src="https://img.shields.io/badge/VERSION-1.0.0.1-cyan?style=flat-square">
+  
   <img alt="Static Badge" heigth="150px" width="150px" src="https://img.shields.io/badge/LICENSE-GNU%20GPL%20v3.0-black?style=flat-square">
 </p>
 <p align = "center">
