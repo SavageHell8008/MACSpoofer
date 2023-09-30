@@ -1,5 +1,5 @@
 # MACSpoofer
-<img alt="MAC Spoofer" align="center" src="https://github.com/Secure-Scholar/MACSpoofer/assets/117523457/69f6e8cf-f410-48a7-8084-14afadb86c19">
+<img alt="MAC Spoofer" text-align="center" src="https://github.com/Secure-Scholar/MACSpoofer/assets/117523457/69f6e8cf-f410-48a7-8084-14afadb86c19">
 <p align = "center">
   <img alt="Static Badge" heigth="150px" width="150px" src="https://img.shields.io/badge/VERSION-1.0.0.1-cyan?style=flat-square">
   <img alt="Static Badge" heigth="200px" width="200px" src="https://img.shields.io/badge/LICENSE-GNU%20GPL%20v3.0-black?style=flat-square">
