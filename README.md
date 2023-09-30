@@ -38,11 +38,11 @@
 
 ### Installation
 
-- Just, Clone this repository -
+- Just, Clone this repository 
   ```
   git clone ---depth=1 https://github.com/Secure-Scholar/MACSpoofer
   ```
-  - Now go to the cloned directory -
+- Now go to the cloned directory 
   ```
   $ cd MACSpoofer
   $ pip3 install -r requirements.txt
