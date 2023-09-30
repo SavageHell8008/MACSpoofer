@@ -10,7 +10,9 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/WRITTEN%20IN%20PYTHON-YES-cyan?style=flat-square"><br>
   <strong>A beginner-friendly tool to stay anonymous over any netowrk with multiple options to choose from</strong>
 </p>
+
 ##
+
 <h3 align="center">
   Disclaimer 
 </h3>
