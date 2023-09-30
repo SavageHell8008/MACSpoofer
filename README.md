@@ -1,8 +1,7 @@
 # MACSpoofer
-<img alt="MAC Spoofer" src="https://github.com/Secure-Scholar/MACSpoofer/assets/117523457/69f6e8cf-f410-48a7-8084-14afadb86c19" style="display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;">
+<p align="center">
+  <img alt="MAC Spoofer" src="https://github.com/Secure-Scholar/MACSpoofer/assets/117523457/69f6e8cf-f410-48a7-8084-14afadb86c19">
+</p>
 <p align = "center">
   <img alt="Static Badge" heigth="150px" width="150px" src="https://img.shields.io/badge/VERSION-1.0.0.1-cyan?style=flat-square">
   <img alt="Static Badge" heigth="200px" width="200px" src="https://img.shields.io/badge/LICENSE-GNU%20GPL%20v3.0-black?style=flat-square">
