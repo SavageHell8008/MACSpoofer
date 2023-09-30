@@ -15,4 +15,41 @@
 
 <h3 align="center">
   Disclaimer 
-</h3>
+</h3><br><br>
+<p>
+  <em>Any actions related to <strong>MACSpoofer</strong> is solely your responsibility.<strong>The Contributors will not be held responsible</strong> in the event any criminal charges be bought against any individuals misusing the tool to break the law.</em>
+</p><br>
+<p>
+  <em><strong>This Tool is made for educational purposes only.</strong></em>
+</p><br>
+
+<p>
+  <em>It only demonstrate "how mac spoofing works".<strong>You shall not misuse the information to perform any harm within any network.</strong>However you may try out this at your own risk.</em>
+</p>
+
+##
+
+### Features
+- Multiple Ways To Spoof MAC Address
+- Beginner Friendly
+- NetScan For Discovering MAC Of Users In The Network
+
+##
+
+### Installation
+
+- Just, Clone this repository -
+  ```
+  git clone ---depth=1 https://github.com/Secure-Scholar/MACSpoofer
+  ```
+  - Now go to the cloned directory -
+  ```
+  $ cd MACSpoofer
+  $ pip3 install -r requirements.txt
+  $ python3 MACSpoofer.py
+  ```
+##
+
+### Currently Tested On
+- Linux
+  
