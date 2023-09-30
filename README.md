@@ -11,6 +11,6 @@
   <strong>A beginner-friendly tool to stay anonymous over any netowrk with multiple options to choose from</strong>
 </p>
 
-<h3>
+<h3 align="center">
   Disclaimer 
 </h3>
