@@ -40,7 +40,7 @@
 
 - Just, Clone this repository 
   ```
-  git clone ---depth=1 https://github.com/Secure-Scholar/MACSpoofer
+  git clone https://github.com/Secure-Scholar/MACSpoofer
   ```
 - Now go to the cloned directory 
   ```
